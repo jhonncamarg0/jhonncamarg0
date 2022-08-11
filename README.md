@@ -1,16 +1,33 @@
-### Hi there 👋
+### 🔰 Bem-vindo! Me chamo Jhonatha ou Jhon. Sou mais um dos estudantes do mundo de desenvolvimento web com vontade de aprender e pressa para trabalhar!
 
-<!--
-**jhonncamarg0/jhonncamarg0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently not working
+🌱 I’m currently learning from Oracle Next Education
+👯 I’m looking to collaborate on Web Development Projects
+🤔 I’m looking for help with JavaScript
+💬 Ask me about HTML and CSS
+📫 How to reach me: jhonncamarg0.github.io/my-linktree
+😄 Pronouns: he/him
+⚡ Fun fact: i love cats
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/jhonncamarg0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonncamarg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonncamarg0&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="J-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="J-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="J-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="J-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="J-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg">
+  <img align="right" alt="J-Pic" height="150" style="border-radius:50px;" src="https://github.com/jhonncamarg0.png">
+</div>
+
+##
+
+<div>
+  <a href="mailto:jhonemmaje@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="t.me/jhonncamarg0" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jhonatha-camargo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
