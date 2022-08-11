@@ -1,6 +1,6 @@
 ### 🔰 Bem-vindo! Me chamo Jhonatha ou Jhon
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/jhonncamarg0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonncamarg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonncamarg0&layout=compact&langs_count=7&theme=dark"/>
@@ -18,7 +18,7 @@
   <img align="center" alt="J-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="J-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="J-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="J-Pic" height="150" style="border-radius:50px;" src="https://github.com/jhonncamarg0.png">
+  <img align="right" alt="J-Pic" height="150" style="border-radius:50px;" src="https://bungalower.com/wp-content/uploads/2020/02/giphy-4.gif">
 </div>
 
 ##
