@@ -1,14 +1,5 @@
 ### 🔰 Bem-vindo! Me chamo Jhonatha ou Jhon
 
-🔭 I’m currently not working
-🌱 I’m currently learning from Oracle Next Education
-👯 I’m looking to collaborate on Web Development Projects
-🤔 I’m looking for help with JavaScript
-💬 Ask me about HTML and CSS
-📫 How to reach me: jhonncamarg0.github.io/my-linktree
-😄 Pronouns: he/him
-⚡ Fun fact: i love cats
-
 <div align="center">
   <a href="https://github.com/jhonncamarg0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonncamarg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
