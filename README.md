@@ -10,6 +10,8 @@ Sou mais um dos estudantes do mundo de desenvolvimento web com vontade de aprend
 
 Atualmente sou um desenvolvedor de software em formação pelo programa de educação e empregabilidade ONE da Oracle em parceria com a Alura, solidificando meus conhecimentos e experiências, me capacitando na minha área através de habilidades técnicas e socioemocionais, e futuramente me conectando com o mercado de trabalho, dando início a minha tão sonhada carreira. Estou me graduando em ciência da computação pelo Centro Universitário União das Américas Descomplica, adquirindo uma formação acadêmica completa na área de computação. Possuo formação técnica em informática pela Instituição Federal de Educação, Ciência e Tecnologia da Paraíba, no qual obtive um primeiro contato com a computação e suas oportunidades. Busco ampliar cada vez mais, quando possível, meus conhecimentos e interesses tecnológicos através de oportunidades de ensino e cursos complementares, no momento, principalmente na área de desenvolvimento web, user experience e gestão de projetos, em conjunto com linux. Interesses esses obtidos ao longo da minha formação e perspectiva de futuro profissional. Pretendo levá-los adiante e futuramente construir uma carreira de sucesso na área de desenvolvimento de software web.
 
+##
+
 <div align="left">
   <a href="https://github.com/jhonncamarg0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonncamarg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
