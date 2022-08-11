@@ -18,7 +18,7 @@
   <img align="center" alt="J-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="J-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="J-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="J-Pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="J-Picture" height="150" style="border-radius:50px;" src="">
 </div>
 
 ##
