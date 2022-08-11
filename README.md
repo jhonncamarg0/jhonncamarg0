@@ -1,4 +1,4 @@
-### 🔰 Bem-vindo! Me chamo Jhonatha ou Jhon. Sou mais um dos estudantes do mundo de desenvolvimento web com vontade de aprender e pressa para trabalhar!
+### 🔰 Bem-vindo! Me chamo Jhonatha ou Jhon
 
 🔭 I’m currently not working
 🌱 I’m currently learning from Oracle Next Education
