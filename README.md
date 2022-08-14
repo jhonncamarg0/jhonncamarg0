@@ -20,8 +20,9 @@ Atualmente sou um desenvolvedor de software em formação pelo programa de educa
 
 ##
 
-<div style="display: inline_block"><br>
 ### Tecnologias
+
+<div style="display: inline_block"><br>
   <img align="center" alt="J-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="J-Opera" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg">
   <img align="center" alt="J-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
