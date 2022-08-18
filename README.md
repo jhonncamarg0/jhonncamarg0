@@ -23,7 +23,7 @@ Atualmente sou um desenvolvedor de software em formação pelo programa de educa
 #### Badges
 
 <div style="display: inline-block"><br>
-  <img align="center" alt="J-ONE-Challenge-1" height="50" width="60" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/Challenge1.png">
+  <img align="center" alt="J-ONE-Challenge-1" height="80" width="80" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/Challenge1.png">
 </div>
 
 #### Tecnologias
