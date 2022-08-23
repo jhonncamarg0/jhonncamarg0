@@ -32,17 +32,6 @@ Atualmente sou um desenvolvedor de software em formação pelo programa de educa
 
 ##
 
-#### Badges de desenvolvimento de software
-
-<div style="display: inline-block"><br>
-  <img align="center" alt="J-ONE-Challenge-1" height="130" width="140" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/Challenge1.png">
-  <img align="center" alt="J-ONE-Challenge-1" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
-  <img align="center" alt="J-ONE-Challenge-1" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
-  <img align="center" alt="J-ONE-Challenge-1" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
-  <img align="center" alt="J-ONE-Challenge-1" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
-  <img align="center" alt="J-ONE-Challenge-1" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
-</div>
-
 #### Tecnologias
 
 <div style="display: inline_block"><br>
@@ -64,6 +53,17 @@ Atualmente sou um desenvolvedor de software em formação pelo programa de educa
   <img align="center" alt="J-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="J-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div></a>
+
+#### Badges de desenvolvimento de software
+
+<div style="display: inline-block"><br>
+  <img align="center" alt="J-ONE-Challenge-1" height="130" width="140" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/Challenge1.png">
+  <img align="center" alt="J-ONE-Challenge-1" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+  <img align="center" alt="J-ONE-Challenge-1" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+  <img align="center" alt="J-ONE-Challenge-1" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+  <img align="center" alt="J-ONE-Challenge-1" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+  <img align="center" alt="J-ONE-Challenge-1" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+</div>
 
 ##
 
