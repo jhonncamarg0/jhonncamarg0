@@ -15,6 +15,7 @@ Atualmente sou um desenvolvedor de software em formação pelo programa de educa
 #### 🎓 Ciência da computação - Uniamérica & Descomplica | Certificado trimestral - Programming basics
 
 ##### • Lógica de programação com Portugol e Java
+##### • Desenvolvimento de algoritmos
 ##### • Análise e engenharia de requisitos de software
 
 #### 🎓 Oracle Next Education - Oracle & Alura | Certificado mensal - Iniciante em programação
