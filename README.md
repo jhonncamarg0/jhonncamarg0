@@ -10,14 +10,18 @@ Atualmente sou um desenvolvedor de software em formação pelo programa de educa
 
 ##
 
-### 🏆 Certificados
+### 🏆 Certificados de Desenvolvimento de Software
 
-#### • Ciência da computação | Certificado trimestral - Programming basics
+#### • Ciência da computação - Uniamérica & Descomplica | Certificado trimestral - Programming basics
 
-#### 🎓 Lógica de programação
-#### 🎓 Análise e engenharia de requisitos de software
+##### 🎓 Lógica de programação com Portugol e Java
+##### 🎓 Análise e engenharia de requisitos de software
 
-##
+#### • Oracle Next Education - Oracle & Alura | Certificado mensal - Iniciante em programação
+
+##### 🎓 Lógica de programação com HTML e JavaScript
+##### 🎓 HTML e CSS
+##### 🎓 Git e Github
 
 <div align="left">
   <a href="https://github.com/jhonncamarg0">
