@@ -10,6 +10,12 @@ Atualmente sou um desenvolvedor de software em formação pelo programa de educa
 
 ##
 
+### 🎓 Formações
+
+#### Formado em Análise e Engenharia de Requisitos de Software
+
+##
+
 <div align="left">
   <a href="https://github.com/jhonncamarg0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonncamarg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
