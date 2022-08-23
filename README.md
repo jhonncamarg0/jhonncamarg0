@@ -38,6 +38,26 @@ Atualmente sou um desenvolvedor de software em formação pelo programa de educa
   <img align="center" alt="J-ONE-Challenge-1" height="130" width="140" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/Challenge1.png">
 </div>
 
+<div style="display: inline-block"><br>
+  <img align="center" alt="J-ONE-Challenge-1" height="130" width="140" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+</div>
+
+<div style="display: inline-block"><br>
+  <img align="center" alt="J-ONE-Challenge-1" height="130" width="140" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+</div>
+
+<div style="display: inline-block"><br>
+  <img align="center" alt="J-ONE-Challenge-1" height="130" width="140" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+</div>
+
+<div style="display: inline-block"><br>
+  <img align="center" alt="J-ONE-Challenge-1" height="130" width="140" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+</div>
+
+<div style="display: inline-block"><br>
+  <img align="center" alt="J-ONE-Challenge-1" height="130" width="140" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+</div>
+
 #### Tecnologias
 
 <div style="display: inline_block"><br>
