@@ -12,7 +12,7 @@ Atualmente sou um desenvolvedor de software em formação pelo programa de educa
 
 ### 🎓 Formações
 
-#### • Análise e Engenharia de Requisitos de Software - Uniamérica Descomplica
+#### • Análise e Engenharia de Requisitos de Software
 
 ##
 
