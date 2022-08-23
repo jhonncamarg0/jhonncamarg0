@@ -10,9 +10,9 @@ Atualmente sou um desenvolvedor de software em formação pelo programa de educa
 
 ##
 
-### 🎓 Formações
+### 🎓 Certificados
 
-#### • Análise e engenharia de requisitos de software
+#### • Ciência da computação/certificado trimestral - Análise e engenharia de requisitos de software
 
 ##
 
