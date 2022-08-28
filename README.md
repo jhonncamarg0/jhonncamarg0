@@ -4,7 +4,7 @@ Sou mais um dos estudantes do mundo de desenvolvimento web com vontade de aprend
 
 ##
 
-<div style="background: lightgray">
+<div style="background-color: lightgray">
 
 ### 📚 Estudante de desenvolvimento web front-end e linux | 🎯 Futuro desenvolvedor web full-stack
 
