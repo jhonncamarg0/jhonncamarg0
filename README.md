@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ### 🔰 Bem-vindo! Me chamo Jhonatha ou Jhon
 
 Sou mais um dos estudantes do mundo de desenvolvimento web com vontade de aprender e pressa para trabalhar!
