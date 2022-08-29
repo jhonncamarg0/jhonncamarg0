@@ -76,6 +76,4 @@ Atualmente sou um desenvolvedor de software em formação pelo programa de educa
   <a href="https://www.linkedin.com/in/jhonatha-camargo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="left">
-  ![Snake animation](https://github.com/jhonncamarg0/jhonncamarg0/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/jhonncamarg0/jhonncamarg0/blob/output/github-contribution-grid-snake.svg)
