@@ -46,7 +46,7 @@ Atualmente sou um desenvolvedor de software em formação pelo programa de educa
   <img align="center" alt="J-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-#### Linguagens e Frameworks
+#### Linguagens e frameworks
 
 <div style="display: inline_block"><br>
   <img align="center" alt="J-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
