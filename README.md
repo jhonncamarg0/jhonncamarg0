@@ -4,15 +4,22 @@ Sou mais um dos estudantes do mundo de desenvolvimento web com vontade de aprend
 
 ##
 
-### 📚 Estudante de desenvolvimento web front-end e linux | 🎯 Futuro desenvolvedor web full-stack
+### 📚 Estudante de desenvolvimento web front-end e UX | 🎯 Futuro desenvolvedor web full-stack
 
-Atualmente sou um desenvolvedor de software web em formação pelo programa de educação e empregabilidade ONE da Oracle em parceria com a Alura, solidificando meus conhecimentos e experiências, me capacitando através de habilidades técnicas e socioemocionais, e futuramente me conectando com o mercado de trabalho, dando início a minha tão sonhada carreira. Estou me graduando em ciência da computação pelo Centro Universitário União das Américas Descomplica, adquirindo uma formação acadêmica completa na área de computação. Possuo formação técnica em informática pela Instituição Federal de Educação, Ciência e Tecnologia da Paraíba, no qual obtive um primeiro contato com a computação e suas oportunidades. Busco ampliar cada vez mais, quando possível, meus conhecimentos e interesses tecnológicos através de oportunidades de ensino e cursos complementares, no momento, na área de desenvolvimento web, user experience e redes de computadores, em conjunto com linux. Interesses esses obtidos ao longo da minha formação e perspectiva de futuro profissional. Pretendo levá-los adiante e futuramente construir uma carreira de sucesso na área de desenvolvimento de software web com conhecimentos de UI e UX.
+Atualmente sou um desenvolvedor de software web em formação pelo programa de educação e empregabilidade ONE da Oracle em parceria com a Alura, solidificando
+meus conhecimentos e experiências, me capacitando através de habilidades técnicas e socioemocionais, e futuramente me conectando com o mercado de trabalho,
+dando início a minha tão sonhada carreira. Estou me graduando em ciência da computação pelo Centro Universitário União das Américas Descomplica, adquirindo
+uma formação acadêmica completa na área de computação. Possuo formação técnica em informática pela Instituição Federal de Educação, Ciência e Tecnologia da
+Paraíba, no qual obtive um primeiro contato com a computação e suas oportunidades. Busco ampliar cada vez mais, quando possível, meus conhecimentos e
+interesses tecnológicos através de oportunidades de ensino e cursos complementares, no momento, na área de desenvolvimento web, user experience, redes de
+computadores e linux. Interesses esses obtidos ao longo da minha formação e perspectiva de futuro profissional. Pretendo levá-los adiante e futuramente
+construir uma carreira de sucesso na área de desenvolvimento de software web com fortes conhecimentos de design de experiência do usuário.
 
 ##
 
 ### 🏆 Certificados de desenvolvimento de software
 
-#### 🎓 Ciência da computação - Uniamérica & Descomplica | Certificado trimestral - Programming basics
+#### 🎓 Ciência da computação - Uniamérica & Descomplica Faculdade Digital | Certificado trimestral - Programming basics
 
 ##### • Lógica de programação com Portugol e Java
 ##### • Desenvolvimento de algoritmos
@@ -23,6 +30,11 @@ Atualmente sou um desenvolvedor de software web em formação pelo programa de e
 ##### • Lógica de programação com HTML e JavaScript
 ##### • HTML e CSS
 ##### • Git e Github
+
+#### 🎓 Ciência da computação - Uniamérica & Descomplica Faculdade Digital | Certificado trimestral - Object oriented developer
+
+##### • Design de software
+##### • Programação orientada a objetos com Java
 
 <div align="left">
   <a href="https://github.com/jhonncamarg0">
