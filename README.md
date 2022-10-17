@@ -36,6 +36,8 @@ construir uma carreira de sucesso na área de desenvolvimento de software web co
 ##### • Design de software
 ##### • Programação orientada a objetos com Java
 
+##
+
 <div align="left">
   <a href="https://github.com/jhonncamarg0">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhonncamarg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
