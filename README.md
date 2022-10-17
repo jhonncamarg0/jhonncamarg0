@@ -21,9 +21,9 @@ construir uma carreira de sucesso na área de desenvolvimento de software web co
 
 #### 🎓 Ciência da computação - Uniamérica & Descomplica Faculdade Digital | Certificado trimestral - Programming basics
 
+##### • Análise e engenharia de requisitos de software
 ##### • Lógica de programação com Portugol e Java
 ##### • Desenvolvimento de algoritmos
-##### • Análise e engenharia de requisitos de software
 
 #### 🎓 Oracle Next Education - Oracle & Alura | Certificado mensal - Iniciante em programação
 
