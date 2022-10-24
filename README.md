@@ -46,7 +46,7 @@ construir uma carreira de sucesso na área de desenvolvimento de software web co
 
 ##
 
-#### Tecnologias de estudo
+#### Estudando as tecnologias:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="J-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
@@ -61,7 +61,7 @@ construir uma carreira de sucesso na área de desenvolvimento de software web co
   <img align="center" alt="J-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-#### Linguagens e frameworks de estudo
+#### Estudando as linguagens e frameworks:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="J-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
