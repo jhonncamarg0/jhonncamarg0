@@ -52,7 +52,7 @@ construir uma carreira de sucesso na área de desenvolvimento de software web co
   <img align="center" alt="J-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="J-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="J-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="J-SSH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg">
+  <img align="center" alt="J-SSH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg">
   <img align="center" alt="J-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="J-Opera" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg">
   <img align="center" alt="J-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
@@ -77,8 +77,8 @@ construir uma carreira de sucesso na área de desenvolvimento de software web co
 #### Badges de desenvolvimento de software conquistadas:
 
 <div style="display: inline-block"><br>
-  <img align="center" alt="J-ONE-Challenge-1" height="130" width="140" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/challenge1.png">
-  <img align="center" alt="J-ONE-Challenge-2" height="130" width="140" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/challenge2.png">
+  <img align="center" alt="J-ONE-Challenge-1" height="120" width="130" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/challenge1.png">
+  <img align="center" alt="J-ONE-Challenge-2" height="120" width="130" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/challenge2.png">
   <img align="center" alt="J-ONE-Challenge-3" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
   <img align="center" alt="J-ONE-Challenge-4" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
   <img align="center" alt="J-ONE-Challenge-5" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
