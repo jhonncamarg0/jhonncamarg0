@@ -79,10 +79,10 @@ construir uma carreira de sucesso na área de desenvolvimento de software web co
 <div style="display: inline-block"><br>
   <img align="center" alt="J-ONE-Challenge-1" height="120" width="130" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/challenge1.png">
   <img align="center" alt="J-ONE-Challenge-2" height="120" width="130" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/challenge2.png">
-  <img align="center" alt="J-ONE-Challenge-3" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
-  <img align="center" alt="J-ONE-Challenge-4" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
-  <img align="center" alt="J-ONE-Challenge-5" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
-  <img align="center" alt="J-ONE-Challenge-6" height="110" width="120" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+  <img align="center" alt="J-ONE-Challenge-3" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+  <img align="center" alt="J-ONE-Challenge-4" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+  <img align="center" alt="J-ONE-Challenge-5" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+  <img align="center" alt="J-ONE-Challenge-6" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
 </div>
 
 ##
