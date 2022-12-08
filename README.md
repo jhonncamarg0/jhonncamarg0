@@ -38,11 +38,10 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
 
 ##
 
-<a href="https://github.com/jhonncamarg0">
 <div align="left">
-  <img alt="stats" height="100em" src="https://github-readme-stats.vercel.app/api?username=jhonncamarg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img alt="stats" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonncamarg0&layout=compact&langs_count=7&theme=dark">
-  <img alt="J-Avatar" height="100" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/avatar.png">
+  <a href="https://github.com/jhonncamarg0">
+  <img alt="stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=jhonncamarg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img alt="stats" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonncamarg0&layout=compact&langs_count=7&theme=dark">
 </div>
 
 ##
@@ -62,6 +61,7 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
   <img align="center" alt="J-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="J-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="J-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="right" alt="J-Avatar" height="130" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/avatar.png">
 </div>
 
 #### Estudando e usando as linguagens e frameworks:
@@ -74,7 +74,6 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
   <img align="center" alt="J-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="J-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
-</a>
 
 #### Badges de desenvolvimento de software conquistadas:
 
@@ -85,6 +84,7 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
   <img align="center" alt="J-ONE-Challenge-4" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/badges/badge.png">
   <img align="center" alt="J-ONE-Challenge-5" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/badges/badge.png">
   <img align="center" alt="J-ONE-Challenge-6" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/badges/badge.png">
+  </a>
 </div>
 
 ##
