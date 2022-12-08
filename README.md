@@ -64,7 +64,7 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
 </div>
 
 <div style="display: inline_block" align="right">
-  <img align="center" alt="J-Avatar" height="40" width="50" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/avatar.png">
+  <img align="center" alt="J-Avatar" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/avatar.png">
 </div>
 
 #### Estudando e usando as linguagens e frameworks:
