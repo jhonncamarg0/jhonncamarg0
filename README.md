@@ -38,9 +38,6 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
 
 ##
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green">
-
 <div align="left">
   <a href="https://github.com/jhonncamarg0">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhonncamarg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
@@ -51,7 +48,7 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
 
 #### Estudando e usando as tecnologias:
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="J-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="J-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="J-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
