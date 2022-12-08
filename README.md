@@ -77,20 +77,20 @@ construir uma carreira de sucesso na área de desenvolvimento de software web co
 #### Badges de desenvolvimento de software conquistadas:
 
 <div style="display: inline-block"><br>
-  <img align="center" alt="J-ONE-Challenge-1" height="120" width="130" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/challenge1.png">
-  <img align="center" alt="J-ONE-Challenge-2" height="120" width="130" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/challenge2.png">
-  <img align="center" alt="J-ONE-Challenge-3" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
-  <img align="center" alt="J-ONE-Challenge-4" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
-  <img align="center" alt="J-ONE-Challenge-5" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
-  <img align="center" alt="J-ONE-Challenge-6" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/Badges/badge.png">
+  <img align="center" alt="J-ONE-Challenge-1" height="120" width="130" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/badges/challenge1.png">
+  <img align="center" alt="J-ONE-Challenge-2" height="120" width="130" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/badges/challenge2.png">
+  <img align="center" alt="J-ONE-Challenge-3" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/badges/badge.png">
+  <img align="center" alt="J-ONE-Challenge-4" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/badges/badge.png">
+  <img align="center" alt="J-ONE-Challenge-5" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/badges/badge.png">
+  <img align="center" alt="J-ONE-Challenge-6" height="100" width="110" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/badges/badge.png">
 </div>
 
 ##
 
 <div style="display: inline-block"><br>
-  <a href="mailto:jhonemmaje@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/jhonncamarg0" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jhonatha-camargo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:jhonemmaje@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">     </a>
+  <a href="https://t.me/jhonncamarg0" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jhonatha-camargo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ![Snake animation](https://github.com/jhonncamarg0/jhonncamarg0/blob/output/github-contribution-grid-snake.svg)
