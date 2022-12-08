@@ -13,7 +13,7 @@ uma formação acadêmica completa na área de computação. Possuo formação t
 Paraíba, no qual obtive um primeiro contato com a computação e suas oportunidades. Busco ampliar cada vez mais, quando possível, meus conhecimentos e
 interesses tecnológicos através de oportunidades de ensino e cursos complementares, no momento, na área de desenvolvimento web, redes de
 computadores e linux. Interesses esses obtidos ao longo da minha formação e perspectiva de futuro profissional. Pretendo levá-los adiante e futuramente
-construir uma carreira satisfatória na área de desenvolvimento de software web com foco na parte de front-end e mais adiante com back-end.
+construir uma carreira satisfatória na área de desenvolvimento de software web com foco na parte de front-end.
 
 ##
 
@@ -39,7 +39,7 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
 ##
 
 <a href="https://github.com/jhonncamarg0">
-<div style="display: inline_block"><br>
+<div><br>
   <img align="left" alt="stats" height="160em" src="https://github-readme-stats.vercel.app/api?username=jhonncamarg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img align="left" alt="stats" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonncamarg0&layout=compact&langs_count=7&theme=dark">
   <img align="right" alt="J-Avatar" height="160" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/avatar.png">
