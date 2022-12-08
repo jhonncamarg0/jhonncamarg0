@@ -34,7 +34,16 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
 #### 🎓 Ciência da computação - Uniamérica & Descomplica Faculdade Digital | Certificado trimestral - Object oriented developer
 
 ##### • Design de software
+##### • Gerenciamento de projetos
 ##### • Programação orientada a objetos com Java
+
+#### 🎓 Oracle Next Education - Oracle & Alura | Certificado mensal - Front-end
+
+##### • CSS Flexbox
+##### • CSS Grid Layout
+##### • Web Design Responsivo
+##### • Arquitetura CSS
+##### • JavaScript
 
 ##
 
