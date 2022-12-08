@@ -40,9 +40,9 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
 
 <a href="https://github.com/jhonncamarg0">
 <div align="left">
-  <img alt="stats" height="140em" src="https://github-readme-stats.vercel.app/api?username=jhonncamarg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img alt="stats" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonncamarg0&layout=compact&langs_count=7&theme=dark">
-  <img alt="J-Avatar" height="140" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/avatar.png">
+  <img alt="stats" height="100em" src="https://github-readme-stats.vercel.app/api?username=jhonncamarg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img alt="stats" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonncamarg0&layout=compact&langs_count=7&theme=dark">
+  <img alt="J-Avatar" height="100" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/avatar.png">
 </div>
 
 ##
