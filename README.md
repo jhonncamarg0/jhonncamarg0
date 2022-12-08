@@ -13,7 +13,7 @@ uma formação acadêmica completa na área de computação. Possuo formação t
 Paraíba, no qual obtive um primeiro contato com a computação e suas oportunidades. Busco ampliar cada vez mais, quando possível, meus conhecimentos e
 interesses tecnológicos através de oportunidades de ensino e cursos complementares, no momento, na área de desenvolvimento web, redes de
 computadores e linux. Interesses esses obtidos ao longo da minha formação e perspectiva de futuro profissional. Pretendo levá-los adiante e futuramente
-construir uma carreira satisfatória na área de desenvolvimento de software web com foco na parte de front-end.
+construir uma carreira satisfatória na área de desenvolvimento de software web com foco na parte de front-end e mais adiante na parte de back-end.
 
 ##
 
