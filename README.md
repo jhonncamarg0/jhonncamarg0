@@ -48,7 +48,7 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
 
 #### Estudando e usando as tecnologias:
 
-<div style="display: inline_block" align="left"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="J-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="J-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="J-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
@@ -61,10 +61,7 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
   <img align="center" alt="J-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="J-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="J-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
-
-<div style="display: inline_block" align="right">
-  <img align="center" alt="J-Avatar" height="100" width="100" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/avatar.png">
+  <img align="right" alt="J-Avatar" height="100" width="100" src="https://github.com/jhonncamarg0/oracle-next-education/blob/main/avatar.png">
 </div>
 
 #### Estudando e usando as linguagens e frameworks:
