@@ -38,10 +38,13 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
 
 ##
 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green">
+
 <div align="left">
   <a href="https://github.com/jhonncamarg0">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhonncamarg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonncamarg0&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhonncamarg0&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonncamarg0&layout=compact&langs_count=7&theme=dark">
 </div>
 
 ##
@@ -88,7 +91,7 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
 ##
 
 <div style="display: inline-block"><br>
-  <a href="mailto:jhonemmaje@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:jhonemmaje@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/jhonncamarg0" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhonatha-camargo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561199181514141" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
