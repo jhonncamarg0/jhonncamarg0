@@ -42,9 +42,8 @@ construir uma carreira satisfatória na área de desenvolvimento de software web
 ##### • CSS Grid Layout
 ##### • Web Design Responsivo
 ##### • Arquitetura CSS
-##### • Programação Estruturada e Orientada a Objetos com JavaScript
-##### • Manipulação do DOM
-##### • JSON
+##### • Programação estruturada e orientada a objetos com JavaScript
+##### • Manipulação do DOM e JSON
 
 ##
 
