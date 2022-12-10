@@ -4,7 +4,7 @@ Sou mais um dos estudantes do mundo de desenvolvimento web com vontade de aprend
 
 ##
 
-### 📚 Estudante de desenvolvimento web front-end | 🎯 Futuro desenvolvedor web full-stack
+### 📚 Desenvolvedor web front-end júnior | 🎯 Futuro desenvolvedor web full-stack
 
 Atualmente sou um desenvolvedor de software web em formação pelo programa de educação e empregabilidade ONE da Oracle em parceria com a Alura, solidificando
 meus conhecimentos e experiências, me capacitando através de habilidades técnicas e socioemocionais, e futuramente me conectando com o mercado de trabalho,
